@@ -1,4 +1,4 @@
-Hii! I Izza Shahzad 👋:<br>
+<h1 style="font-weight bolder";>Hii! I Izza Shahzad 👋</h1>:<br>
 I'm currently working on front end projects.<br>I'm looking to collaborate on Open source projects and web development projects.<br>I'm looking for help with scalable projects. <br>I'm currently learning react.js, next.js and tailwind.<br>If you want to collaborate with me, you can react me out at izzashahzad516@gmail.com<br>Fun Fact:When I'm not coding, i love exploring new cafes and trying out different coffee blends.
 
 
